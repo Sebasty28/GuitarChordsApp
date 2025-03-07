@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\bin\Debug\net8.0\IntegrativeProgramming.exe
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\bin\Debug\net8.0\IntegrativeProgramming.deps.json
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\bin\Debug\net8.0\IntegrativeProgramming.runtimeconfig.json
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\bin\Debug\net8.0\IntegrativeProgramming.dll
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\bin\Debug\net8.0\IntegrativeProgramming.pdb
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.dll
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\refint\IntegrativeProgramming.dll
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.pdb
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.genruntimeconfig.cache
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\ref\IntegrativeProgramming.dll
