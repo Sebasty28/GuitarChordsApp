@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\De
 C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.pdb
 C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.genruntimeconfig.cache
 C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\ref\IntegrativeProgramming.dll
+C:\Users\Admin\source\repos\IntegrativeProgramming\IntegrativeProgramming\obj\Debug\net8.0\IntegrativeProgramming.sourcelink.json
